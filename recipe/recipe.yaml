@@ -1,5 +1,5 @@
 context:
-  version: "2.6.1"
+  version: "2.7.0"
 
 package:
   name: emmet-language-server
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@olrtg/emmet-language-server/-/emmet-language-server-${{ version }}.tgz
-  sha256: 578b85af828393585f1ba46469e14a059be6b2f11b906233d0c0447fc1795a68
+  sha256: a654869a65a3a0ef8c04554e005bf6695c34f83e8e69452303be9fb3be100ea9
 
 build:
   number: 0
